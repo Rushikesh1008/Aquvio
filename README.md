@@ -23,8 +23,11 @@ user :~ python3 manage.py runserver             //It will deploy website on your
 ## Admin login
 
 Open https://127.0.0.1:8000/admin
+
 Default credentials are
+
 Username -> admin
+
 Password -> admin
 
 ## A help for you
