@@ -34,7 +34,7 @@ Password -> admin
 I have added a debug toolbar DjDT - Django Debug Toolbar. See right side on the website on the browser after deploying it.
 
 ## Instructions for front-end developers
-Keep your html files in Aquvio/templates and your media files, css, js files in static_in_env. All your development work is related to only these folders.
+Keep your html files in /Aquvio/templates and your media files, css, js files in static_in_env. All your development work is related to only these folders.
 
 ## Instructions for back-end developers
 Try to complete some missing parts and integrate all things. DjDT will be a major help to you. Add more tabs like about us,etc.
