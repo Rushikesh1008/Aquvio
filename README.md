@@ -1,8 +1,8 @@
-# Aquvio
+## Aquvio
 Source code of the new website of Aquvio
+
 ![](https://img.shields.io/github/license/CybSec-NITW/WeaponHEX)
 ![](https://img.shields.io/github/issues/CybSec-NITW/WeaponHEX)
-![](https://img.shields.io/badge/Python-3-blue)
 ![](https://img.shields.io/pypi/pyversions/django.svg)
 ![](https://img.shields.io/github/stars/CybSec-NITW/WeaponHEX)
 
