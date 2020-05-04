@@ -10,14 +10,14 @@ Source code of the new website of Aquvio
 To run this project follow these steps
 
 ```
-user :~ git clone https://github.com/ankushmittal1008/Aquvio.git
-user :~ cd Aquvio
-user :~ pip3 install -r requirements.txt
-user :~ virtualenv env
-user :~ env\scripts\activate                    //(Windows) for MAC/Linux -> source env/bin/activate
-user :~ python3 manage.py makemigrations
-user :~ python3 manage.py migrate
-user :~ python3 manage.py runserver             //It will deploy website on your localhost https://127.0.0.1:8000
+user:~ git clone https://github.com/ankushmittal1008/Aquvio.git
+user:~ cd Aquvio
+user:~ pip3 install -r requirements.txt
+user:~ virtualenv env
+user:~ env\scripts\activate                    #(Windows) for MAC/Linux -> source env/bin/activate
+user:~ python3 manage.py makemigrations
+user:~ python3 manage.py migrate
+user:~ python3 manage.py runserver             #It will deploy website on your localhost https://127.0.0.1:8000
 ```
 
 ## Admin login
@@ -42,10 +42,10 @@ Try to complete some missing parts and integrate all things. DjDT will be a majo
 ## Updating this repository
 To update your work, follow these commands
 ```
-user :~ git add .
-user :~ git commit -m "your_unique_msg"
-user :~ git pull origin master
-user :~ git push origin master
+user:~ git add .
+user:~ git commit -m "your_unique_msg"
+user:~ git pull origin master
+user:~ git push origin master
 ```
 
 ## Note
